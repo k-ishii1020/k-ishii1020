@@ -8,5 +8,7 @@
   <a href="https://zenn.dev/k_ishii1020"><img height="20" src="https://badgen.org/img/zenn/k_ishii1020/articles?style=plastic" alt="Articles" /></a>
 </p>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-ishii1020&layout=compact)](
-)
+## [github](./github/README.md)
+[![](https://raw.githubusercontent.com/k-ishii1020/k-ishii1020/main/profile-summary-card-output/github/0-profile-details.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/k-ishii1020/k-ishii1020/main/profile-summary-card-output/github/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/k-ishii1020/k-ishii1020/main/profile-summary-card-output/github/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
+[![](https://raw.githubusercontent.com/k-ishii1020/k-ishii1020/main/profile-summary-card-output/github/3-stats.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/k-ishii1020/k-ishii1020/main/profile-summary-card-output/github/4-productive-time.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)

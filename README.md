@@ -7,3 +7,6 @@
   <a href="https://zenn.dev/k_ishii1020"><img height="20" src="https://badgen.org/img/zenn/k_ishii1020/followers?style=plastic" alt="Followers" /></a>
   <a href="https://zenn.dev/k_ishii1020"><img height="20" src="https://badgen.org/img/zenn/k_ishii1020/articles?style=plastic" alt="Articles" /></a>
 </p>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=k-ishii1020&layout=compact)](
+)
